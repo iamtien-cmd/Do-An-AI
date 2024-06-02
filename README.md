@@ -14,6 +14,7 @@ Step 2: Run the Application
 Open your terminal.
 Execute the following command:
 streamlit run tictactoe_gui_web.py
+
 👨‍🎓 Students
 Full name: Lê Đình Trí
 
