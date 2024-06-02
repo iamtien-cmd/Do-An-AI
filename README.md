@@ -1,6 +1,6 @@
 🎓 Do-An-AI - Đồ án Trí Tuệ Nhân Tạo
 🌐 Web Application
-The web application has been deployed here: [Web App Link]
+The web application has been deployed here: [[Web App Link]](https://ttt-game.streamlit.app/)
 
 ⏳ It may take some time to wake it up if it is sleeping.
 
