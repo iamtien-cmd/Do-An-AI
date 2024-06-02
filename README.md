@@ -16,6 +16,7 @@ Execute the following command:
 streamlit run tictactoe_gui_web.py
 
 👨‍🎓 Students
+
 Full name: Lê Đình Trí
 
 ID: 22110442
@@ -23,6 +24,7 @@ GitHub GitHub
 Facebook Facebook
 Email 22110442@student.hcmute.edu.vn
 Phone 0362092749
+
 Full name: Liên Huệ Tiên
 
 ID: 22110433
